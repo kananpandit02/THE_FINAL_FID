@@ -43,7 +43,7 @@ This document lists all logistics, resources, and setup requirements for conduct
 
 ## Printed and Physical Materials
 
-- Printed rule book (2–3 copies)
+- Printed rule book (8 copies)
 - Team list (8 teams)
 - Prelims result sheet
 - Pen and paper
