@@ -6,7 +6,7 @@ This document lists all logistics, resources, and setup requirements for conduct
 
 ## Human Resources
 
-- Auctioneer
+- Auctioneer 
 - UI Operator
 - Rule Observer / Judge
 - Event Coordinator
